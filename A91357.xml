@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The purchasers pound: or, The return to Lambeth-faire of knaves and thieves with all the sacred ware. Where in is restor'd to all what was gone, or stole away since the year forty one</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91357</idno><idno type="EEBO-CITATION">99866927</idno>
+  <idno type="VID">168950</idno>
+  <idno type="EEBO-PROQUEST">2248499746</idno>
+  
+            <idno type="STC">Wing P4227</idno>
+            <idno type="STC">Thomason E1040_13</idno>
+            <idno type="STC">ESTC R207909</idno>
+            <idno type="PROQUEST">99866927</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866927e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The purchasers pound: or, The return to Lambeth-faire of knaves and thieves with all the sacred ware. Where in is restor'd to all what was gone, or stole away since the year forty one</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on the Church, in verse.</note>
+                  <note>With title page woodcut, representing a banquet.</note>
+                  <note>Annotation on Thomason copy: "Aug. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168950:1"/>
+            <p>THE PURCHASERS POUND: OR,</p>
+            <q>
+               <l>THE Return to Lambeth-Fair</l>
+               <l>Of Knaves and Thieves with all the Sacred WARE.</l>
+               <l>Where in is restor'd to all what was gone,</l>
+               <l>Or stole away since the year Forty One</l>
+            </q>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Jones,</hi> 1660. <add>Aug. 24</add>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168950:2"/>
+            <pb n="1" facs="tcp:168950:2"/>
+            <head>To the READER.</head>
+            <l>THe rare Poetick Wits of these our times</l>
+            <l>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e dail<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chanting pleasant hymns and Rymes:</l>
+            <l>Whose lines perfum'd: smell sweet as any Rope</l>
+            <l>for English Traytors that have had their scope</l>
+            <l>To Act a part, upon their Sovereign King;</l>
+            <l>for which on Dr. <hi>Storys</hi> Cap theyl swing.</l>
+            <l>Then Reader now, if thou woul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st understand</l>
+            <l>why this same matter I do take in hand,</l>
+            <l>'Tis cause I love to keep my mind from folly,</l>
+            <l>Or that disease which some call Melancholly.</l>
+            <l>But some will say (perhaps if this be true</l>
+            <l>You m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght have kept it from the vulgar view:</l>
+            <l>I answer no, for who coul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then repair</l>
+            <l>to have their goods again at <hi>Lambeth-fair.</hi>
+            </l>
+            <l>The times are chang'd, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now may all the Nation</l>
+            <l>have that re<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or'd late under Bequest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation.</l>
+            <l>Lands Purchas'd by blind <hi>Goblers</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that rabble</l>
+            <l>thus ends the <hi>Prologue,</hi> next begins the Fable.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>The Return to <hi>Lambeth-Fair.</hi>
+            </head>
+            <l>NO sooner was the fable darkness gone</l>
+            <l>which did begin 'mongst us in forty one.</l>
+            <l>But presently the people all with joy.</l>
+            <l>and Eccho's loud cry'd out <hi>Vive le Roy.</hi>
+            </l>
+            <l>Those that had purchase Lands did then repair</l>
+            <l>With what they bought before at <hi>Lambeth-Fair.</hi>
+            </l>
+            <l>And when their Shops, and Stalls, and Booths were made,</l>
+            <l>with all things fitting for the holy Trade▪</l>
+            <l>With might and main the people 'gan to flock,</l>
+            <l>and all were ready their by nine a clock.</l>
+            <pb n="2" facs="tcp:168950:3"/>
+            <l>The Clerk o'th Fair was presently bespoken,</l>
+            <l>to give them Liberty their Stalls to open:</l>
+            <l>Though many (forc'd to fly) then was their doome,</l>
+            <l>yet now they safely are returned home:</l>
+            <l>There presently strickt guards were set about</l>
+            <l>to spy, and keep the Knavish Rabble out:</l>
+            <l>Proclaim the Fair, the Purchasers all cry'd,</l>
+            <l>for we dare hardly longer here abide:</l>
+            <l>The Clark gave leave, the Cryer on a Hill,</l>
+            <l>standing began to cry with voyce full shrill.</l>
+            <l>
+               <hi>O yes, O yes, O yes,</hi> I do cry</l>
+            <l>
+               <hi>Sequestred Trinckets,</hi> who will buy</l>
+            <l>Their own again without mony.</l>
+            <l>This being done, straight all the Knavish crew,</l>
+            <l>began with speed their wearing cloths to shew,</l>
+            <l>Which they had plundered in the Fair before,</l>
+            <l>and laid so close, they never sin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e were wore,</l>
+            <l>Come Custome<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that have long time been crost</l>
+            <l>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, and take the goods you latel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lost:</l>
+            <l>Heres Vestments consec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ated, of all sorts and sizes,</l>
+            <l>you may have he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e▪ you need not fear the prizes:</l>
+            <l>They are your own we cannot then deny,</l>
+            <l>then take them freely now you need not buy:</l>
+            <l>We do confess on ou our pawes we laid,</l>
+            <l>and sought likewise your lives to have betrayd:</l>
+            <l>To <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ob the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch we counted not a sin,</l>
+            <l>but theft and Sacriledge delighted in:</l>
+            <l>Its strange to see how some away do keep,</l>
+            <l>what come you all to <hi>Lambeth-Fair</hi> to sleep:</l>
+            <l>Take these Lawn-fleves, hang all worldly pelf,</l>
+            <l>i'le take no chink for what I stole my self:</l>
+            <l>Come hither friend and take this silken Gown,</l>
+            <l>i'me su<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you cannot matcht in <hi>Lambeth-Town:</hi>
+            </l>
+            <l>Many a storm and showre it will abide,</l>
+            <l>and Rags that we have brought you to will hide:</l>
+            <l>Tis good and large you cannot have a stronger,</l>
+            <l>it is your own we dare not keep it longer:</l>
+            <l>Though we have wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt its not worse for the wearing,</l>
+            <l>girt it but close you need not fear the tearing:</l>
+            <pb n="3" facs="tcp:168950:3"/>
+            <l>Another comes, as if his back would break,</l>
+            <l>burthend with Vestures, and 'gan thus to speak:</l>
+            <l>I am o're laden with an unjust pack,</l>
+            <l>I pray you view them, and see what you lack:</l>
+            <l>See for your love to ease my misery,</l>
+            <l>name what you will, I fit you presently:</l>
+            <l>My pack is like a Wardrop, large and faire,</l>
+            <l>wherein ile fit you with all sacred ware.</l>
+            <l>The rarest Knick-knacks in my pack their be,</l>
+            <l>preservd, as ever mortal eye did see:</l>
+            <l>Heres rich embrodered ware, take what you please,</l>
+            <l>Ift be your own, a thousand such as these:</l>
+            <l>I stole from you before, which now alack,</l>
+            <l>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es heavy on my Conscience and my back:</l>
+            <l>Here Dr. take this Tippet, Scarfe and Cope,</l>
+            <l>the which I fear will bring me to a Rope:</l>
+            <l>If them I keep; release me o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that pain,</l>
+            <l>by taking of you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wfull goods again:</l>
+            <l>Take all you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goods (I can no longer stay)</l>
+            <l>for one poor pair of shoes to run away:</l>
+            <l>Next spake a Cobler, and a man whose spirit</l>
+            <l>of Treachery a benefice did merit;</l>
+            <l>And next to him appeard a man of mettle,</l>
+            <l>who mended souls just like a broken <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ettle:</l>
+            <l>The people he could not restrain from V<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce,</l>
+            <l>although he told them of a <hi>Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adise:</hi>
+            </l>
+            <l>Heed take no Tythes for preaching, but would stand</l>
+            <l>ready to take what ever came to hand:</l>
+            <l>They could not chuse I do profess but thrive,</l>
+            <l>that for their living under water dive</l>
+            <l>For Holyness; these Anti-<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lungers they,</l>
+            <l>thus feed on people as do Beasts of prey:</l>
+            <l>Another crys aloud with Voyce full shrill,</l>
+            <l>come freely all take what doth please your will:</l>
+            <l>Hores Crosses, Organs, Chanting pleasant Hymes,</l>
+            <l>returnd againe with the late-turning times:</l>
+            <l>With sac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Fon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, blest Priest, and singing Boyes,</l>
+            <l>Which we in 41 call'd Apish toyes.</l>
+            <pb n="4" facs="tcp:168950:4"/>
+            <l>Your Bells Baptiz'd which made a gallant sound,</l>
+            <l>pray take again, step in and ring them round:</l>
+            <l>Then after this came in a Regiment▪</l>
+            <l>of Locusts lately from <hi>Cocitus</hi> sent,</l>
+            <l>To draw a mighty Cart wherein was brought</l>
+            <l>such Churches which the Pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chasers had bought,</l>
+            <l>Wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch was no sooner brought, but so well known</l>
+            <l>that every person seiz'd upon his own:</l>
+            <l>Then cry'd another, pray good Sir repair</l>
+            <l>to me and take your own, it is good Ware:</l>
+            <l>Come says another, Sir what is the reason</l>
+            <l>you leave the Fair, I hope we smell of Treason</l>
+            <l>Not so strong, but you'l stay here a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e</l>
+            <l>brave Wedding Rings the best in all the Fair:</l>
+            <l>To yield to Bishops Cannons I was loath,</l>
+            <l>but yet am perjur'd by a Cursed Oath</l>
+            <l>Of Abjuration, no sin scarce known so big</l>
+            <l>before was as that) sta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt by <hi>Haslerigg:</hi>
+            </l>
+            <l>Now Prentices again you may go play,</l>
+            <l>and exercise your selves each Holy-day:</l>
+            <l>We cannot hinder you, who were precise,</l>
+            <l>and yet could with a Sister exercise.</l>
+            <l>Then next to him a fiery fat-guts there</l>
+            <l>brought six and twenty Houses to the Fair,</l>
+            <l>With Whips, and Gags, and Prisons for all those</l>
+            <l>that should their cursed Factions oppose.</l>
+            <l>With catch him Varlet, take him to the Jayl,</l>
+            <l>there let him lye without main-prize or baile:</l>
+            <l>E're he get from us we will make him see</l>
+            <l>the pow'r of our fifth-Monarchy to be</l>
+            <l>Above all Magistrates holy and Civil,</l>
+            <l>although our selves: run headlong to the Devil:</l>
+            <l>What all pass by, 'tis strange time turns her wheel,</l>
+            <l>and bends he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brow upon us, that we feel</l>
+            <l>No custome yet, our Wares be charmed sure,</l>
+            <l>and (like our selves) their's none will it endure:</l>
+            <l>tIs doom'd to fate, revil'd and scorn'd,</l>
+            <l>though ne're so costly, or so much adorn'd.</l>
+            <pb n="5" facs="tcp:168950:4"/>
+            <l>I never did before see such a Fair,</l>
+            <l>we profer freely, but none takes our Ware:</l>
+            <l>Nay scoft and mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>let are we by every Jack</l>
+            <l>that Cryes out Pedlars, take away your pack:</l>
+            <l>Another, <hi>Judas</hi> lifting up his voyce,</l>
+            <l>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y'd out amain, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vings I have choyce:</l>
+            <l>Here take them f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eely owne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s if you please,</l>
+            <l>i'me sure they brought me <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oney in at ease:</l>
+            <l>I was a Puritan, and one devout,</l>
+            <l>yet to get in, could turn your Worship out</l>
+            <l>Of all, and some I basely murtehred,</l>
+            <l>whilst since their Children dy'd for want of bread.</l>
+            <l>Here take your Common-Prayer-Book one calls,</l>
+            <l>I stole it out o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Cathedral <hi>Pauls:</hi>
+            </l>
+            <l>Mony my hearts another loud doth call,</l>
+            <l>doth on my Conscience lye, come take it all:</l>
+            <l>I was a Rumper by times changes risen,</l>
+            <l>men brought me chink to free them out of Prison:</l>
+            <l>I'me broke, i'me broke another then did say,</l>
+            <l>I sat and judg'd my King, that fatall day</l>
+            <l>Doth make me fear a Traytors death to dye,</l>
+            <l>therefore no longer can I stay, but flye:</l>
+            <l>What mean ye sirs, the day is almost spent,</l>
+            <l>come take your livings all incontinent:</l>
+            <l>Come hither friends, the price is very small:</l>
+            <l>Ile give them freely, use <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd principall,</l>
+            <l>Next, mongst this c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue a w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etch did the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e appear,</l>
+            <l>who took from's Father fourscore pound a year:</l>
+            <l>A poor old man whose nature was decay'd,</l>
+            <l>yet by his Son thus judasly bet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay'd:</l>
+            <l>He<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther take y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur own, I dare b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bold,</l>
+            <l>to swear I only k'pt it till you're old.</l>
+            <l>It now beginning to grow towa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d night,</l>
+            <l>come a Schismatick running in with might,</l>
+            <l>And cryes be gon, or else we shall be lost,</l>
+            <l>for now our whole Fanatick▪ lot is crost:</l>
+            <l>Its folly an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more design to Plot,</l>
+            <l>or to put <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rust in an ill-thriving <hi>Scot.</hi>
+            </l>
+            <pb n="6" facs="tcp:168950:5"/>
+            <l>We ne're shall see those happy days again,</l>
+            <l>Wherein the Head did yield to ev'ry <hi>Vain.</hi>
+            </l>
+            <l>Whilst thus these greedy Purchasers did stay</l>
+            <l>and call'd their Customers to come away,</l>
+            <l>A Messenger came riding through the crowd,</l>
+            <l>And to these Shop-keepers he cry'd aloud,</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>way to <hi>Tiburn,</hi> hast and run you thither,</l>
+            <l>now your shoes are made of running leather;</l>
+            <l>For all the Laws o'th Land you have out-run,</l>
+            <l>and I come here to tell you what is done.</l>
+            <l>Your wares not worth a F— for all your cogging</l>
+            <l>See where the Hangman comes away be jogging;</l>
+            <l>For now 'tis well to all the Nation known</l>
+            <l>could you it keep no man should have his own,</l>
+            <l>Alas cryd they, Is all our labour lost</l>
+            <l>was ever mortals thus by fortune crost?</l>
+            <l>As we ware now in this late Expedition,</l>
+            <l>and needs must fly, tis Vain for to Petition.</l>
+            <l>Yet notwitstanding here lyes all our hope</l>
+            <l>Our heels may save our Necks out of a Rope.</l>
+            <l>With that like men of Sences quite bereft</l>
+            <l>they ran away, and all their Trinkets left.</l>
+            <l>Then came the Owners: Soon the Goods were known</l>
+            <l>and every man in order took his own.</l>
+            <l>Thus Fortune tu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the wheele, and times are mended:</l>
+            <l>stole goods restord are, and the Fair is ended.</l>
+            <l>Which tydings jo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will to these Nations bring</l>
+            <l>with Peace and Plenty, so</l>
+            <lg type="closer">
+               <l>GOD Save the KING.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
